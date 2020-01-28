@@ -1,18 +1,18 @@
 # Exposicion_EMV
-Repositorio del proyecto sobre Clustering de la asignatura Estadística Multivariante (Optativa del Grado de Matemáticas)
+Proyecto sobre Clustering de la asignatura Estadística Multivariante (Optativa del Grado de Matemáticas)
 
 Trabajo realizado por:
 
-Sofía Almeida Bruno
+- Sofía Almeida Bruno
 
-Daniel Bolaños Martínez
+- Daniel Bolaños Martínez
 
-José María Borrás Serrano
+- José María Borrás Serrano
 
-Fernando de la Hoz Moreno
+- Fernando de la Hoz Moreno
 
-Pedro Manuel Flores Crespo
+- Pedro Manuel Flores Crespo
 
-María Victoria Granados Pozo
+- María Victoria Granados Pozo
 
 Repositorio original en: https://github.com/SofiaAlmeida/Clustering
