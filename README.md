@@ -1,4 +1,4 @@
-# Exposicion_EMV
+# Proyecto Estadística Multivariante (EMV)
 Proyecto sobre Clustering de la asignatura Estadística Multivariante (Optativa del Grado de Matemáticas)
 
 Trabajo realizado por:
